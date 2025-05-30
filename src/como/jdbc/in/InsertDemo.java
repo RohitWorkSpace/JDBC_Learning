@@ -8,10 +8,10 @@ public class InsertDemo {
 
 	public static void main(String[] args) throws Exception {
 		
-		String name1="rohit3";
-		String email1="rohit3@gmail.com";
-		String password="rohit3@13";
-		String gender="M3";
+		String name1="rohitdummy";
+		String email1="rohitdummy@gmail.com";
+		String password="rohitdummy@13";
+		String gender="dummy3";
 		String city1="mumbai3";
 		
 		Class.forName("com.mysql.cj.jdbc.Driver");
